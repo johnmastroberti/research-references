@@ -1,0 +1,179 @@
+---
+Akimov19:
+  title: Fast component re-emission in Xe-doped liquid argon
+  gist: Effect of Xe doping on PSD
+  url: https://arxiv.org/abs/1906.00836
+  abstract: >
+    We present the first direct experimental confirmation of the fast
+    component re-emission in liquid argon (LAr) doped with xenon (Xe). This
+    effect was studied at various Xe concentrations up to ∼ 3000 ppm. The
+    rate constant of energy transfer for the fast component was quantified.
+    It was shown that LAr doped with a high concentration of Xe without TPB
+    has a better Pulse Shape Discrimination (PSD) efficiency than pure LAr or
+    Xe-doped LAr with TPB. The stability of LAr+Xe mixture was tested for the
+    first time at high Xe concentration for long continuous runtimes.
+
+Benson18:
+  title: >
+    Measurements of the intrinsic quantum efficiency and absorption length of
+    tetraphenyl butadiene thin films in the vacuum ultraviolet regime
+  gist: Efficiency and absorption length of TPB vs wavelength
+  url: https://doi.org/10.1140/epjc/s10052-018-5807-z
+  abstract: >
+    A key enabling technology for many liquid noble gas (LNG) detectors is the
+    use of the common wavelength shifting medium tetraphenyl butadiene (TPB).
+    TPB thin films are used to shift ultraviolet scintillation light into the
+    visible spectrum for detection and event reconstruction. Understanding the
+    wavelength shifting efficiency and optical properties of these films are
+    critical aspects in detector performance and modeling and hence in the
+    ultimate physics sensitivity of such experiments. This article presents the
+    first measurements of the room-temperature microphysical quantum efficiency
+    for vacuum-deposited TPB thin films – a result that is independent of the
+    optics of the TPB or substrate. Also presented are measurements of the
+    absorption length in the vacuum ultraviolet regime, the secondary
+    re-emission efficiency, and more precise results for the “black-box”
+    efficiency across a broader spectrum of wavelengths than previous results.
+    The low-wavelength sensitivity, in particular, would allow construction of
+    LNG scintillator detectors with lighter elements (Ne, He) to target light
+    mass WIMPs.
+
+Grace17:
+  title: >
+    Index of refraction, Rayleigh scattering length, and Sellmeier coefficients
+    in solid and liquid argon and xenon
+  gist: RINDEX and Rayleigh scattering length of Ar vs wavelength
+  url: https://arxiv.org/abs/1502.04213v4
+  abstract: >
+    Large liquid argon detectors have become widely used in low rate
+    experiments, including dark matter and neutrino research. However, the
+    optical properties of liquid argon are not well understood at the large
+    scales relevant for current and near-future detectors.The index of
+    refraction of liquid argon at the scin- tillation wavelength has not been
+    measured, and current Rayleigh scattering length calculations disagree with
+    measurements. Furthermore, the Rayleigh scattering length and index of
+    refraction of solid argon and solid xenon at their scintillation
+    wavelengths have not been previously measured or calculated. We introduce a
+    new calculation using existing data in liquid and solid argon and xenon to
+    extrapolate the optical properties at the scintillation wavelengths using
+    the Sellmeier dispersion relationship.
+
+Ishida97:
+  title: >
+    Attenuation length measurements of scintillation light in liquid rare gases
+    and their mixtures using an improved reflection suppresser
+  gist: Attenuation length measurements for Lar and XeDLAr
+  url: https://doi.org/10.1016/S0168-9002(96)00740-1
+  abstract: >
+    The attenuation lengths for scintillation photons in liquid argon, krypton,
+    xenon, argon-xenon (3%) mixture, and krypton-xenon (3%) mixture, have been
+    measured by using a newly designed reflection suppresser. The obtained
+    values are 66±3 cm for argon, 82±4 cm for krypton, 29±2 cm for xenon,
+    170±23 cm (first experiment) and 118±10 cm (second experiment) for
+    argon-xenon (3%) mixture, and 136±11 cm for krypton-xenon (3%) mixture. The
+    reason why the attenuation lengths in the mixtures are longer than those in
+    the pure liquids is attributed to the reduced Rayleigh scattering in the
+    mixtures.
+
+Kuzniak21:
+  title: Wavelength Shifters for Applications in Liquid Argon Detectors
+  gist: General overview of wavelength shifters
+  url: https://www.mdpi.com/2410-390X/5/1/4
+  abstract: >
+    Wavelength shifters and their applications for liquid argon detectors have
+    been a subject of extensive R&D procedures over the past decade. This work
+    reviews the most recent results in this field. We compare the optical
+    properties and usage details together with the associated challenges for
+    various wavelength shifting solutions. We discuss the current status and
+    potential future R&D directions for the main classes of wavelength
+    shifters.
+
+McFadden21:
+  title: Large-Scale, Precision Xenon Doping of Liquid Argon
+  gist: Triplet lifetime in XeDLAr
+  url: https://arxiv.org/abs/2006.09780
+  abstract: >
+    The detection of scintillation light from liquid argon is an experimental
+    technique key to a number of current and future nuclear/particle physics
+    experiments, such as neutrino physics, neutrinoless double beta decay and
+    dark matter searches. Although the idea of adding small quantities of xenon
+    (doping) to enhance the light yield has attracted considerable interest,
+    this technique has never been demonstrated at the necessary scale or
+    precision. Here we report on xenon doping in a 100 l cryogenic vessel.
+    Xenon doping was performed in four concentrations of 1.00±0.06 ppm, 2.0±0.1
+    ppm, 5.0±0.3 ppm, and 10.0±0.5 ppm. These measurements represent the most
+    precise xenon doping measurements as of publishing. We observed an increase
+    in average light yield by a factor of 1.92±0.12(syst)±0.02(stat) at a
+    dopant concentration of 10 ppm.
+
+Neumeier15:
+  title: Intense VUV and Infrared Scintillation of Liquid Ar-Xe Mixtures
+  gist: Shift of scintillation wavelength to 174 nm, time constants
+  url: https://arxiv.org/abs/1511.07723v1
+  abstract: >
+    Vacuum ultraviolet light emission from xenon-doped liquid argon is
+    described in the context of liquid noble gas particle detectors. Xenon
+    concentrations in liquid argon from 0.1 ppm to 1000 ppm were studied. The
+    energy transfer from the second excimer continuum of argon (∼127 nm) to the
+    second excimer continuum of xenon (∼174 nm) is observed by recording
+    optical emission spectra. The transfer almost saturates at a xenon
+    concentration of ∼10 ppm for which, in addition, an intense emission in the
+    infrared at a peak wavelength of 1.17 μm with (13000±4000) photons per MeV
+    deposited by electrons had been found. The corresponding value for the VUV
+    emission at a peak wavelength of 174 nm (second excimer continuum of xenon)
+    is determined to be (20000±6000) photons per MeV electron energy deposited.
+    Under these excitation conditions pure liquid argon emits (22000±3000)
+    photons per MeV electron energy deposited at a peak wavelength of 127nm. An
+    electron-beam induced emission spectrum for the 10 ppm Ar-Xe liquid mixture
+    ranging from 115 nm to 3.5 μm is presented. VUV emission spectra from
+    xenon-doped liquid argon with exponentially varied xenon concentrations
+    from 0.1 ppm to 1000 ppm are also shown. Time structure measurements of the
+    light emissions at well-defined wavelength positions in the vacuum
+    ultraviolet as well as in the near-infrared are presented.
+
+Vogl21:
+  title: Scintillation and optical properties of xenon-doped liquid argon
+  gist: Measurement of triplet lifetime and attenuation length in XeDLAr
+  url: https://arxiv.org/abs/2112.07427
+  abstract: >
+    Liquid argon (LAr) is a common choice as detection medium in particle
+    physics and rare- event searches. Challenges of LAr scintillation light
+    detection include its short emission wavelength, long scintillation time
+    and short attenuation length. The addition of small amounts of xenon to LAr
+    is known to improve the scintillation and optical properties. We present a
+    characterization campaign on xenon-doped liquid argon (XeDLAr) with target
+    xenon concentrations ranging from 0 to 300 ppm by mass encompassing the
+    measurement of the photoelectron yield 𝑌 , effective triplet lifetime 𝜏3
+    and effective attenuation length 𝜆att . The measurements were conducted in
+    the Subterranean Cryogenic ARgon Facility, Scarf, a 1 t (XeD)LAr test stand
+    in the shallow underground laboratory (UGL) of TU-Munich. These three
+    scintillation and optical parameters were observed simultaneously with a
+    single setup, the Legend Liquid Argon Monitoring Apparatus, Llama. The
+    actual xenon concentrations in the liquid and gaseous phases were
+    determined with the Impurity DEtector For Investigation of Xenon, Idefix, a
+    mass spectrometer setup, and successful doping was confirmed. At the
+    highest dopant concentration we find a doubling of 𝑌 , a tenfold reduction
+    of 𝜏3 to ∼ 90 ns and a tenfold increase of 𝜆att to over 6 m.
+
+Zettlemoyer20:
+  title: >
+    First detection of coherent elastic neutrino-nucleus scattering on an argon
+    target
+  gist: Jacob Z's thesis
+  url: https://scholarworks.iu.edu/dspace/handle/2022/25448
+  abstract: >
+    Coherent elastic neutrino-nucleus scattering (CEvNS) was first proposed in
+    1974 but eluded detection for 40 years. The COHERENT collaboration made the
+    first observation of CEvNS at the Oak Ridge National Laboratory Spallation
+    Neutron Source (SNS) with a 14.6 kg CsI[Na] detector. One of the physics
+    goals of the COHERENT experiment is to test the square of the neutron
+    number dependence of the CEvNS cross section predicted in the Standard
+    Model by observing CEvNS in multiple nuclei. To that end, the ~24 kg
+    CENNS-10 liquid argon detector was deployed at the low-background Neutrino
+    Alley at the SNS in early 2017. The detector was upgraded to allow for
+    sensitivity to CEvNS in mid-2017. We analyzed 1.5 years of data taken after
+    this upgrade to provide the first detection of CEvNS on an argon nucleus at
+    > 3σ significance. The measured CEvNS cross section of (2.3±0.7) x 1039cm2,
+    averaged over the incident neutrino flux, is consistent with the Standard
+    Model prediction. This result represents a detection of CEvNS on the
+    lightest nuclei so far and improves bounds on beyond-the-standard-model
+    physics in the form of non-standard neutrino interactions.
